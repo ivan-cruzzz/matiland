@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Nunito", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+
+  /* Тёплая пастель: фон, поверхности, текст (адаптация miniDESIGN) */
+  --color-cream: #fdf8f2;
+  --color-surface: #ffffff;
+  --color-ink: #3d3a37;
+  --color-ink-soft: #6f6862;
+  --color-ink-mute: #a39a90;
+  --color-line: #efe6da;
+  --color-line-strong: #ddd0c0;
+
+  /* Пастельные акценты: мягкий тон + глубокий (текст, контраст ≥ 4.5:1) */
+  --color-mint: #a8e6cf;
+  --color-mint-soft: #e3f7ee;
+  --color-mint-deep: #1f7a5c;
+  --color-lavender: #c9b8f0;
+  --color-lavender-soft: #f0eafc;
+  --color-lavender-deep: #6d4fc2;
+  --color-peach: #ffd3b6;
+  --color-peach-soft: #ffeee1;
+  --color-peach-deep: #a64b0e;
+  --color-sunny: #ffe38a;
+  --color-sunny-soft: #fff6d9;
+  --color-sunny-deep: #8a620a;
+  --color-coral: #ffb3ab;
+  --color-coral-soft: #ffe9e6;
+  --color-coral-deep: #bb3a2c;
+  --color-sky: #a6d8f0;
+  --color-sky-soft: #e9f5fc;
+  --color-sky-deep: #1d6fa3;
+
+  --shadow-card: 0 1px 2px rgb(61 58 55 / 0.05);
+  --shadow-pop: 0 4px 16px rgb(61 58 55 / 0.08);
+  --shadow-dock: 0 20px 48px rgb(61 58 55 / 0.12), 0 3px 10px rgb(61 58 55 / 0.05);
+}
+
+/* Ночная Матилэнд: переопределение токенов без изменения утилит */
+:root[data-theme="dark"] {
+  --color-cream: #211d19;
+  --color-surface: #2b2621;
+  --color-ink: #f4eee5;
+  --color-ink-soft: #b9afa3;
+  --color-ink-mute: #8b8177;
+  --color-line: #3b342c;
+  --color-line-strong: #52493e;
+
+  --color-mint-soft: #17332a;
+  --color-lavender-soft: #2a2340;
+  --color-peach-soft: #38271c;
+  --color-sunny-soft: #362e17;
+  --color-coral-soft: #3a211e;
+  --color-sky-soft: #17303f;
+
+  --color-mint-deep: #5ad3a5;
+  --color-lavender-deep: #b79bf5;
+  --color-peach-deep: #ffa25c;
+  --color-sunny-deep: #ffd35c;
+  --color-coral-deep: #ff8a7a;
+  --color-sky-deep: #6fc1ef;
+
+  --shadow-card: 0 1px 2px rgb(0 0 0 / 0.35);
+  --shadow-pop: 0 4px 16px rgb(0 0 0 / 0.45);
+  --shadow-dock: 0 20px 48px rgb(0 0 0 / 0.55);
+}
+
+@layer base {
+  html {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    min-height: 100dvh;
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--color-lavender-deep);
+    outline-offset: 2px;
+    border-radius: 10px;
+  }
+
+  ::selection {
+    background: var(--color-lavender);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
