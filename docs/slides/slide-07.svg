@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1280" height="720" fill="#FDF8F2"/>
+  <text x="90" y="100" font-size="56" font-weight="800" fill="#3D3A37">Свой герой и его комната</text>
+  <text x="90" y="148" font-size="26" fill="#6F6862">Ребёнок создаёт персонажа при регистрации и растит его</text>
+
+  <g transform="translate(120,180) scale(1.55)">
+    <path d="M66 104 Q18 76 30 122 Q36 152 70 142 Z" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M154 104 Q202 76 190 122 Q184 152 150 142 Z" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M78 82 L74 42 L94 60 L110 36 L126 60 L146 42 L142 82 Z" fill="#FFD45E" stroke="#3D3A37" stroke-width="3" stroke-linejoin="round"/>
+    <ellipse cx="88" cy="38" rx="15" ry="40" fill="#A8E6CF" stroke="#3D3A37" stroke-width="3"/>
+    <ellipse cx="132" cy="38" rx="15" ry="40" fill="#A8E6CF" stroke="#3D3A37" stroke-width="3"/>
+    <rect x="62" y="76" width="96" height="118" rx="46" fill="#A8E6CF" stroke="#3D3A37" stroke-width="3"/>
+    <ellipse cx="110" cy="158" rx="30" ry="24" fill="#E3F7EE"/>
+    <circle cx="90" cy="122" r="5.5" fill="#3D3A37"/>
+    <circle cx="130" cy="122" r="5.5" fill="#3D3A37"/>
+    <path d="M98 140 Q110 150 122 140" fill="none" stroke="#3D3A37" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="88" cy="194" rx="13" ry="8" fill="#7ED4B4" stroke="#3D3A37" stroke-width="3"/>
+    <ellipse cx="132" cy="194" rx="13" ry="8" fill="#7ED4B4" stroke="#3D3A37" stroke-width="3"/>
+    <g transform="translate(158,150) scale(0.42)">
+      <circle cx="182" cy="186" r="15" fill="#FFE38A" stroke="#3D3A37" stroke-width="2.5"/>
+      <path d="M196 184 L205 187 L196 190 Z" fill="#FF948A" stroke="#3D3A37" stroke-width="2"/>
+      <circle cx="187" cy="182" r="2" fill="#3D3A37"/>
+    </g>
+  </g>
+
+  <g font-size="22" font-weight="700" fill="#3D3A37">
+    <rect x="560" y="180" width="290" height="54" rx="27" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="580" y="215">5 героев и 8 цветов</text>
+    <rect x="560" y="248" width="290" height="54" rx="27" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="580" y="283">эмоции: радость и грусть</text>
+    <rect x="560" y="316" width="290" height="54" rx="27" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="580" y="351">крылья с 5 уровня, нимб с 8-го</text>
+    <rect x="560" y="384" width="290" height="54" rx="27" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="580" y="419">свой питомец из конструктора</text>
+    <rect x="560" y="452" width="290" height="54" rx="27" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="580" y="487">друг-компаньон рядом</text>
+    <rect x="560" y="520" width="290" height="54" rx="27" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="580" y="555">золотой и радужный окрасы</text>
+  </g>
+
+  <g transform="translate(900,200)">
+    <rect x="0" y="0" width="300" height="170" rx="14" fill="#F0EAFC"/>
+    <circle cx="60" cy="50" r="6" fill="#C9B8F0" opacity="0.7"/>
+    <circle cx="150" cy="35" r="6" fill="#C9B8F0" opacity="0.7"/>
+    <circle cx="240" cy="55" r="6" fill="#C9B8F0" opacity="0.7"/>
+    <circle cx="105" cy="80" r="6" fill="#C9B8F0" opacity="0.7"/>
+    <circle cx="200" cy="85" r="6" fill="#C9B8F0" opacity="0.7"/>
+    <rect x="0" y="128" width="300" height="42" rx="10" fill="#FFD3B6"/>
+    <line x1="0" y1="130" x2="300" y2="130" stroke="#3D3A37" stroke-width="2"/>
+    <rect x="20" y="18" width="80" height="60" rx="6" fill="#FFFFFF" stroke="#3D3A37" stroke-width="2.5"/>
+    <text x="60" y="56" text-anchor="middle" font-size="22" font-weight="800" fill="#6D4FC2">2+2</text>
+    <path d="M255 0 L255 24 L232 48 L278 48 Z" fill="#FFD45E" stroke="#3D3A37" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="250" cy="112" r="14" fill="#A6D8F0" stroke="#3D3A37" stroke-width="2.5"/>
+    <ellipse cx="215" cy="120" rx="18" ry="12" fill="#FFBA8F" stroke="#3D3A37" stroke-width="2.5"/>
+    <circle cx="212" cy="114" r="2" fill="#3D3A37"/>
+    <text x="150" y="200" text-anchor="middle" font-size="24" font-weight="800" fill="#3D3A37">Комната: обои, пол, постер,</text>
+    <text x="150" y="232" text-anchor="middle" font-size="24" font-weight="800" fill="#3D3A37">игрушки и светильники</text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1280" height="720" fill="#FDF8F2"/>
+  <text x="90" y="110" font-size="56" font-weight="800" fill="#3D3A37">Что такое Матилэнд?</text>
+  <text x="90" y="160" font-size="28" fill="#6F6862">Тренажёр математики, в котором ребёнок учится, играя</text>
+
+  <g>
+    <rect x="90" y="210" width="340" height="300" rx="28" fill="#E3F7EE" stroke="#A8E6CF" stroke-width="3"/>
+    <circle cx="260" cy="300" r="44" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3"/>
+    <text x="260" y="318" text-anchor="middle" font-size="44" font-weight="800" fill="#1F7A5C">+</text>
+    <text x="260" y="410" text-anchor="middle" font-size="32" font-weight="800" fill="#3D3A37">Тренажёр</text>
+    <text x="260" y="452" text-anchor="middle" font-size="22" fill="#6F6862">12 тем программы 1–4 класса,</text>
+    <text x="260" y="482" text-anchor="middle" font-size="22" fill="#6F6862">адаптивная сложность</text>
+  </g>
+  <g>
+    <rect x="470" y="210" width="340" height="300" rx="28" fill="#FFF6D9" stroke="#FFE38A" stroke-width="3"/>
+    <circle cx="640" cy="300" r="44" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3"/>
+    <path d="M640 274 L649 293 L670 295 L655 309 L659 329 L640 319 L621 329 L625 309 L610 295 L631 293 Z" fill="#C98A0B"/>
+    <text x="640" y="410" text-anchor="middle" font-size="32" font-weight="800" fill="#3D3A37">Игра</text>
+    <text x="640" y="452" text-anchor="middle" font-size="22" fill="#6F6862">монеты, серии, сундуки, квесты</text>
+    <text x="640" y="482" text-anchor="middle" font-size="22" fill="#6F6862">и сезонный пропуск</text>
+  </g>
+  <g>
+    <rect x="850" y="210" width="340" height="300" rx="28" fill="#F0EAFC" stroke="#C9B8F0" stroke-width="3"/>
+    <circle cx="1020" cy="300" r="44" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3"/>
+    <path d="M1006 286 c-4-7-16-6-16 3 c0 7 10 13 16 17 c6-4 16-10 16-17 c0-9-12-10-16-3 Z" fill="#AB93E6"/>
+    <text x="1020" y="410" text-anchor="middle" font-size="32" font-weight="800" fill="#3D3A37">Коллекция</text>
+    <text x="1020" y="452" text-anchor="middle" font-size="22" fill="#6F6862">свой герой, питомцы, комната,</text>
+    <text x="1020" y="482" text-anchor="middle" font-size="22" fill="#6F6862">45+ вещей и достижения</text>
+  </g>
+
+  <g font-size="24" font-weight="700">
+    <rect x="90" y="560" width="250" height="56" rx="28" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="215" y="596" text-anchor="middle" fill="#3D3A37">без регистрации</text>
+    <rect x="366" y="560" width="290" height="56" rx="28" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="511" y="596" text-anchor="middle" fill="#3D3A37">данные — в браузере</text>
+    <rect x="682" y="560" width="250" height="56" rx="28" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="807" y="596" text-anchor="middle" fill="#3D3A37">работает офлайн</text>
+    <rect x="958" y="560" width="232" height="56" rx="28" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="1074" y="596" text-anchor="middle" fill="#3D3A37">это PWA</text>
+  </g>
+</svg>

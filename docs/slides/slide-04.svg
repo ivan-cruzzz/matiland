@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1280" height="720" fill="#FDF8F2"/>
+  <text x="90" y="100" font-size="56" font-weight="800" fill="#3D3A37">Четыре режима + ежедневный вызов</text>
+
+  <g>
+    <rect x="90" y="160" width="330" height="220" rx="24" fill="#E3F7EE" stroke="#A8E6CF" stroke-width="3"/>
+    <circle cx="145" cy="215" r="30" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3"/>
+    <path d="M137 199 L137 231 L165 215 Z" fill="#1F7A5C"/>
+    <text x="200" y="224" font-size="28" font-weight="800" fill="#3D3A37">Классика</text>
+    <text x="120" y="290" font-size="22" fill="#6F6862">10 задач, серии и бонусы,</text>
+    <text x="120" y="320" font-size="22" fill="#6F6862">+50 монет за идеальный раунд</text>
+  </g>
+  <g>
+    <rect x="450" y="160" width="330" height="220" rx="24" fill="#E9F5FC" stroke="#A6D8F0" stroke-width="3"/>
+    <circle cx="505" cy="215" r="30" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3"/>
+    <circle cx="505" cy="215" r="20" fill="none" stroke="#1D6FA3" stroke-width="3"/>
+    <line x1="505" y1="215" x2="505" y2="201" stroke="#1D6FA3" stroke-width="3" stroke-linecap="round"/>
+    <line x1="505" y1="215" x2="515" y2="219" stroke="#1D6FA3" stroke-width="3" stroke-linecap="round"/>
+    <text x="560" y="224" font-size="28" font-weight="800" fill="#3D3A37">На время</text>
+    <text x="480" y="290" font-size="22" fill="#6F6862">60 секунд, максимум верных</text>
+    <text x="480" y="320" font-size="22" fill="#6F6862">ответов — скорость решает</text>
+  </g>
+  <g>
+    <rect x="810" y="160" width="380" height="220" rx="24" fill="#FFE9E6" stroke="#FFB3AB" stroke-width="3"/>
+    <circle cx="865" cy="215" r="30" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3"/>
+    <path d="M855 206 c-3-5-12-4-12 2 c0 5 8 10 12 13 c4-3 12-8 12-13 c0-6-9-7-12-2 Z" fill="#BB3A2C"/>
+    <path d="M872 206 c-3-5-12-4-12 2 c0 5 8 10 12 13 c4-3 12-8 12-13 c0-6-9-7-12-2 Z" fill="#BB3A2C" opacity="0.55"/>
+    <text x="920" y="224" font-size="28" font-weight="800" fill="#3D3A37">Выживание</text>
+    <text x="840" y="290" font-size="22" fill="#6F6862">3 жизни, сложность растёт —</text>
+    <text x="840" y="320" font-size="22" fill="#6F6862">как долго ты продержишься?</text>
+  </g>
+  <g>
+    <rect x="90" y="410" width="500" height="220" rx="24" fill="#FFF6D9" stroke="#FFE38A" stroke-width="3"/>
+    <circle cx="145" cy="465" r="30" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3"/>
+    <path d="M133 465 L142 474 L158 456" fill="none" stroke="#8A620A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="200" y="474" font-size="28" font-weight="800" fill="#3D3A37">Без ошибок</text>
+    <text x="120" y="540" font-size="22" fill="#6F6862">одна ошибка завершает раунд — для тех,</text>
+    <text x="120" y="570" font-size="22" fill="#6F6862">кто любит идеальность</text>
+  </g>
+  <g>
+    <rect x="620" y="410" width="570" height="220" rx="24" fill="#F0EAFC" stroke="#C9B8F0" stroke-width="3"/>
+    <circle cx="675" cy="465" r="30" fill="#FFFFFF" stroke="#3D3A37" stroke-width="3"/>
+    <path d="M675 447 L679.5 456.8 L690.3 458.1 L682.5 465.6 L684.4 476.3 L675 471.4 L665.6 476.3 L667.5 465.6 L659.7 458.1 L670.5 456.8 Z" fill="#6D4FC2"/>
+    <text x="730" y="474" font-size="28" font-weight="800" fill="#3D3A37">Ежедневный вызов</text>
+    <text x="650" y="540" font-size="22" fill="#6F6862">особый микс-раунд раз в день:</text>
+    <text x="650" y="570" font-size="22" fill="#6F6862">6+ верных ответов = сундук с наградой</text>
+  </g>
+</svg>

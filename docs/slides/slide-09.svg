@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1280" height="720" fill="#FDF8F2"/>
+  <text x="90" y="100" font-size="56" font-weight="800" fill="#3D3A37">Родительская зона</text>
+  <text x="90" y="148" font-size="26" fill="#6F6862">Отдельный вход по PIN-коду — дети не попадут случайно</text>
+
+  <g transform="translate(90,200)">
+    <rect width="500" height="440" rx="28" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="3"/>
+    <rect x="40" y="40" width="80" height="80" rx="20" fill="#F0EAFC"/>
+    <path d="M80 60 a14 14 0 0 1 14 14 v10 h-28 v-10 a14 14 0 0 1 14 -14 Z" fill="#6D4FC2"/>
+    <rect x="66" y="88" width="28" height="22" rx="6" fill="none" stroke="#6D4FC2" stroke-width="4"/>
+    <text x="145" y="78" font-size="28" font-weight="800" fill="#3D3A37">PIN-код</text>
+    <text x="145" y="108" font-size="20" fill="#6F6862">4–6 цифр, хранится локально</text>
+
+    <rect x="40" y="150" width="200" height="110" rx="16" fill="#E3F7EE"/>
+    <text x="60" y="192" font-size="34" font-weight="800" fill="#1F7A5C">100%</text>
+    <text x="60" y="222" font-size="19" fill="#6F6862">точность за неделю</text>
+    <rect x="260" y="150" width="200" height="110" rx="16" fill="#FFF6D9"/>
+    <text x="280" y="192" font-size="34" font-weight="800" fill="#8A620A">7 мин</text>
+    <text x="280" y="222" font-size="19" fill="#6F6862">игры сегодня</text>
+
+    <text x="40" y="306" font-size="22" font-weight="800" fill="#3D3A37">Слабые темы подсвечены:</text>
+    <rect x="40" y="326" width="230" height="48" rx="24" fill="#FFE9E6" stroke="#FFB3AB" stroke-width="2"/>
+    <text x="155" y="357" text-anchor="middle" font-size="20" font-weight="700" fill="#BB3A2C">Деление · 67%</text>
+
+    <text x="40" y="424" font-size="22" font-weight="800" fill="#3D3A37">Доска почёта детей и переводы монет</text>
+  </g>
+
+  <g transform="translate(660,200)">
+    <rect width="530" height="440" rx="28" fill="#3D3A37"/>
+    <text x="45" y="70" font-size="28" font-weight="800" fill="#FDF8F2">Лимит игры в день</text>
+    <text x="45" y="102" font-size="20" fill="#B9AF9F">когда время вышло — игра мягко</text>
+    <text x="45" y="128" font-size="20" fill="#B9AF9F">завершает раунд</text>
+    <g font-size="22" font-weight="700">
+      <rect x="45" y="160" width="100" height="52" rx="26" fill="#2B2621" stroke="#52493E" stroke-width="2"/>
+      <text x="95" y="194" text-anchor="middle" fill="#FDF8F2">15 мин</text>
+      <rect x="160" y="160" width="100" height="52" rx="26" fill="#6D4FC2"/>
+      <text x="210" y="194" text-anchor="middle" fill="#FDF8F2">30 мин</text>
+      <rect x="275" y="160" width="100" height="52" rx="26" fill="#2B2621" stroke="#52493E" stroke-width="2"/>
+      <text x="325" y="194" text-anchor="middle" fill="#FDF8F2">45 мин</text>
+      <rect x="390" y="160" width="110" height="52" rx="26" fill="#2B2621" stroke="#52493E" stroke-width="2"/>
+      <text x="445" y="194" text-anchor="middle" fill="#FDF8F2">без лимита</text>
+    </g>
+    <text x="45" y="270" font-size="28" font-weight="800" fill="#FDF8F2">Несколько детей</text>
+    <text x="45" y="302" font-size="20" fill="#B9AF9F">на одном устройстве: у каждого свой</text>
+    <text x="45" y="328" font-size="20" fill="#B9AF9F">герой, монеты и прогресс</text>
+    <text x="45" y="394" font-size="28" font-weight="800" fill="#FDF8F2">Подарок монет</text>
+    <text x="45" y="426" font-size="20" fill="#B9AF9F">передавайте награду между профилями</text>
+  </g>
+</svg>

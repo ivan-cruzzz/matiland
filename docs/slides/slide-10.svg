@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1280" height="720" fill="#FDF8F2"/>
+  <ellipse cx="180" cy="620" rx="240" ry="170" fill="#A8E6CF" opacity="0.30"/>
+  <ellipse cx="1120" cy="120" rx="200" ry="140" fill="#C9B8F0" opacity="0.30"/>
+
+  <text x="90" y="110" font-size="56" font-weight="800" fill="#3D3A37">Технологии и запуск</text>
+
+  <g font-size="22" font-weight="700" fill="#3D3A37">
+    <rect x="90" y="170" width="330" height="64" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="255" y="210" text-anchor="middle">Vite · React 18 · TypeScript</text>
+    <rect x="90" y="248" width="330" height="64" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="255" y="288" text-anchor="middle">Tailwind CSS 4 · framer-motion</text>
+    <rect x="90" y="326" width="330" height="64" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="255" y="366" text-anchor="middle">PWA: офлайн и установка</text>
+    <rect x="90" y="404" width="330" height="64" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="255" y="444" text-anchor="middle">GitHub Pages · автодеплой</text>
+    <rect x="90" y="482" width="330" height="64" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2"/>
+    <text x="255" y="522" text-anchor="middle">тёмная тема · звуки · сезоны</text>
+  </g>
+
+  <g transform="translate(560,230)">
+    <rect x="0" y="0" width="630" height="110" rx="55" fill="#3D3A37"/>
+    <path d="M50 35 L50 75 L88 55 Z" fill="#FDF8F2"/>
+    <text x="115" y="66" font-size="32" font-weight="800" fill="#FDF8F2">Играть: ivan-cruzzz.github.io/matiland</text>
+    <rect x="0" y="140" width="630" height="96" rx="48" fill="#FFFFFF" stroke="#C9B8F0" stroke-width="3"/>
+    <text x="315" y="182" text-anchor="middle" font-size="26" font-weight="800" fill="#6D4FC2">Исходники: github.com/ivan-cruzzz/matiland</text>
+    <text x="315" y="212" text-anchor="middle" font-size="20" fill="#6F6862">npm install &gt; npm run dev — и локальная копия готова</text>
+  </g>
+
+  <g transform="translate(90,580)" font-size="22" font-weight="700">
+    <rect x="0" y="0" width="300" height="56" rx="28" fill="#E3F7EE" stroke="#A8E6CF" stroke-width="2"/>
+    <text x="150" y="36" text-anchor="middle" fill="#1F7A5C">учёба как приключение</text>
+    <rect x="330" y="0" width="360" height="56" rx="28" fill="#F0EAFC" stroke="#C9B8F0" stroke-width="2"/>
+    <text x="510" y="36" text-anchor="middle" fill="#6D4FC2">сделано с любовью к детям</text>
+  </g>
+
+  <text x="1190" y="660" font-size="22" fill="#A39A90" text-anchor="end">Матилэнд · 2026</text>
+</svg>

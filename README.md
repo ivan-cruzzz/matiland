@@ -4,6 +4,27 @@
 магазин вещей для героя, комната героя, мини-игры, олимпиада, дуэль, помощник Умня
 и родительская зона с лимитом времени. Все данные хранятся локально в браузере (localStorage).
 
+## Презентация
+
+Короткий обзор проекта — 10 слайдов. PDF-версия: [docs/presentation.pdf](docs/presentation.pdf)
+
+<p align="center"><img src="docs/slides/slide-01.svg" width="720" alt="Слайд 1: титул"></p>
+<p align="center"><img src="docs/slides/slide-02.svg" width="720" alt="Слайд 2: что такое Матилэнд"></p>
+<p align="center"><img src="docs/slides/slide-03.svg" width="720" alt="Слайд 3: карта мира"></p>
+<p align="center"><img src="docs/slides/slide-04.svg" width="720" alt="Слайд 4: режимы игры"></p>
+<p align="center"><img src="docs/slides/slide-05.svg" width="720" alt="Слайд 5: типы задач"></p>
+<p align="center"><img src="docs/slides/slide-06.svg" width="720" alt="Слайд 6: экономика наград"></p>
+<p align="center"><img src="docs/slides/slide-07.svg" width="720" alt="Слайд 7: герой и комната"></p>
+<p align="center"><img src="docs/slides/slide-08.svg" width="720" alt="Слайд 8: мини-игры, олимпиада, дуэль"></p>
+<p align="center"><img src="docs/slides/slide-09.svg" width="720" alt="Слайд 9: родительская зона"></p>
+<p align="center"><img src="docs/slides/slide-10.svg" width="720" alt="Слайд 10: технологии и запуск"></p>
+
+## Видео
+
+Демонстрация сайта вживую:
+
+![Демо Матилэнда](docs/demo.mp4)
+
 ## Возможности
 
 - **Режимы игры**: классика, «На время», «Выживание», «Без ошибок», ежедневный вызов

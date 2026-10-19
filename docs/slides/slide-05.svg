@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1280" height="720" fill="#FDF8F2"/>
+  <text x="90" y="100" font-size="56" font-weight="800" fill="#3D3A37">12 типов задач</text>
+  <text x="90" y="148" font-size="26" fill="#6F6862">От счёта до 20 — до денег, часов и текстовых задач</text>
+
+  <g font-size="22" font-weight="700" fill="#3D3A37">
+    <g><rect x="90" y="180" width="260" height="150" rx="20" fill="#E3F7EE" stroke="#A8E6CF" stroke-width="2.5"/><text x="220" y="272" text-anchor="middle" font-size="56" font-weight="800" fill="#1F7A5C">+</text></g>
+    <g><rect x="375" y="180" width="260" height="150" rx="20" fill="#FFEEE1" stroke="#FFD3B6" stroke-width="2.5"/><text x="505" y="272" text-anchor="middle" font-size="56" font-weight="800" fill="#A64B0E">−</text></g>
+    <g><rect x="660" y="180" width="260" height="150" rx="20" fill="#F0EAFC" stroke="#C9B8F0" stroke-width="2.5"/><text x="790" y="272" text-anchor="middle" font-size="56" font-weight="800" fill="#6D4FC2">×</text></g>
+    <g><rect x="945" y="180" width="245" height="150" rx="20" fill="#E9F5FC" stroke="#A6D8F0" stroke-width="2.5"/><text x="1067" y="272" text-anchor="middle" font-size="56" font-weight="800" fill="#1D6FA3">:</text></g>
+
+    <g><rect x="90" y="355" width="260" height="150" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2.5"/><text x="220" y="440" text-anchor="middle" font-size="34" font-weight="800" fill="#3D3A37">7 + ? = 15</text><text x="220" y="478" text-anchor="middle" font-size="19" fill="#A39A90">пропущенное</text></g>
+    <g><rect x="375" y="355" width="260" height="150" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2.5"/><text x="505" y="440" text-anchor="middle" font-size="34" font-weight="800" fill="#3D3A37">45 · 54</text><text x="505" y="478" text-anchor="middle" font-size="19" fill="#A39A90">сравнение</text></g>
+    <g><rect x="660" y="355" width="260" height="150" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2.5"/><text x="790" y="440" text-anchor="middle" font-size="34" font-weight="800" fill="#3D3A37">12 ⬜ 4 = 3</text><text x="790" y="478" text-anchor="middle" font-size="19" fill="#A39A90">выбери знак</text></g>
+    <g>
+      <rect x="945" y="355" width="245" height="150" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2.5"/>
+      <circle cx="1067" cy="428" r="42" fill="#FFF6D9" stroke="#3D3A37" stroke-width="2.5"/>
+      <path d="M1067 428 L1067 386 A42 42 0 0 1 1103.4 449 Z" fill="#FFD45E" stroke="#3D3A37" stroke-width="2"/>
+      <circle cx="1067" cy="428" r="6" fill="#FFB3AB" stroke="#3D3A37" stroke-width="1.5"/>
+      <text x="1067" y="490" text-anchor="middle" font-size="19" fill="#A39A90">доли</text>
+    </g>
+
+    <g>
+      <rect x="90" y="530" width="260" height="150" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2.5"/>
+      <circle cx="220" cy="600" r="38" fill="#FFFFFF" stroke="#3D3A37" stroke-width="2.5"/>
+      <line x1="220" y1="600" x2="220" y2="572" stroke="#3D3A37" stroke-width="4" stroke-linecap="round"/>
+      <line x1="220" y1="600" x2="241" y2="610" stroke="#6D4FC2" stroke-width="3.5" stroke-linecap="round"/>
+      <circle cx="220" cy="600" r="4" fill="#3D3A37"/>
+      <text x="220" y="664" text-anchor="middle" font-size="19" fill="#A39A90">часы и время</text>
+    </g>
+    <g>
+      <rect x="375" y="530" width="260" height="150" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2.5"/>
+      <circle cx="505" cy="598" r="34" fill="#FFE38A" stroke="#C98A0B" stroke-width="3"/>
+      <text x="505" y="610" text-anchor="middle" font-size="34" font-weight="800" fill="#8A620A">₽</text>
+      <text x="505" y="664" text-anchor="middle" font-size="19" fill="#A39A90">деньги и сдача</text>
+    </g>
+    <g>
+      <rect x="660" y="530" width="260" height="150" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2.5"/>
+      <rect x="705" y="566" width="60" height="60" rx="6" fill="none" stroke="#1D6FA3" stroke-width="3.5"/>
+      <path d="M800 626 L800 590 L832 610 Z" fill="none" stroke="#1D6FA3" stroke-width="3.5" stroke-linejoin="round"/>
+      <text x="790" y="664" text-anchor="middle" font-size="19" fill="#A39A90">фигуры и периметр</text>
+    </g>
+    <g>
+      <rect x="945" y="530" width="245" height="150" rx="20" fill="#FFFFFF" stroke="#EFE6DA" stroke-width="2.5"/>
+      <path d="M1030 556 Q1067 542 1104 556 L1104 606 Q1067 620 1030 606 Z" fill="#FFE9E6" stroke="#3D3A37" stroke-width="2.5"/>
+      <text x="1067" y="596" text-anchor="middle" font-size="26" font-weight="800" fill="#BB3A2C">?</text>
+      <text x="1067" y="664" text-anchor="middle" font-size="19" fill="#A39A90">текстовые задачи</text>
+    </g>
+  </g>
+</svg>

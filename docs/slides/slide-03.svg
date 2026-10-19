@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1280" height="720" fill="#FDF8F2"/>
+  <text x="90" y="100" font-size="56" font-weight="800" fill="#3D3A37">Карта мира: 12 островов-тем</text>
+  <text x="90" y="148" font-size="26" fill="#6F6862">Ребёнок путешествует по стране, зарабатывая звёзды мастерства</text>
+
+  <path d="M120 220 L1120 220 Q1160 220 1160 270 L1160 330 Q1160 380 1120 380 L160 380 Q120 380 120 430 L120 490 Q120 540 160 540 L1120 540"
+        fill="none" stroke="#DDD0C0" stroke-width="5" stroke-dasharray="2 16" stroke-linecap="round"/>
+
+  <g font-size="21" font-weight="700">
+    <g><rect x="55" y="190" width="150" height="60" rx="30" fill="#E3F7EE" stroke="#A8E6CF" stroke-width="2.5"/><text x="130" y="227" text-anchor="middle" fill="#1F7A5C">Сложение</text></g>
+    <g><rect x="235" y="190" width="160" height="60" rx="30" fill="#FFEEE1" stroke="#FFD3B6" stroke-width="2.5"/><text x="315" y="227" text-anchor="middle" fill="#A64B0E">Вычитание</text></g>
+    <g><rect x="425" y="190" width="170" height="60" rx="30" fill="#F0EAFC" stroke="#C9B8F0" stroke-width="2.5"/><text x="510" y="227" text-anchor="middle" fill="#6D4FC2">Умножение</text></g>
+    <g><rect x="625" y="190" width="140" height="60" rx="30" fill="#E9F5FC" stroke="#A6D8F0" stroke-width="2.5"/><text x="695" y="227" text-anchor="middle" fill="#1D6FA3">Деление</text></g>
+    <g><rect x="795" y="190" width="200" height="60" rx="30" fill="#FFF6D9" stroke="#FFE38A" stroke-width="2.5"/><text x="895" y="227" text-anchor="middle" fill="#8A620A">Пропущенное число</text></g>
+    <g><rect x="1025" y="190" width="150" height="60" rx="30" fill="#FFE9E6" stroke="#FFB3AB" stroke-width="2.5"/><text x="1100" y="227" text-anchor="middle" fill="#BB3A2C">Сравнение</text></g>
+
+    <g><rect x="1025" y="510" width="150" height="60" rx="30" fill="#E3F7EE" stroke="#A8E6CF" stroke-width="2.5"/><text x="1100" y="547" text-anchor="middle" fill="#1F7A5C">Выбери знак</text></g>
+    <g><rect x="825" y="510" width="130" height="60" rx="30" fill="#FFEEE1" stroke="#FFD3B6" stroke-width="2.5"/><text x="890" y="547" text-anchor="middle" fill="#A64B0E">Доли</text></g>
+    <g><rect x="635" y="510" width="130" height="60" rx="30" fill="#F0EAFC" stroke="#C9B8F0" stroke-width="2.5"/><text x="700" y="547" text-anchor="middle" fill="#6D4FC2">Фигуры</text></g>
+    <g><rect x="445" y="510" width="130" height="60" rx="30" fill="#E9F5FC" stroke="#A6D8F0" stroke-width="2.5"/><text x="510" y="547" text-anchor="middle" fill="#1D6FA3">Часы</text></g>
+    <g><rect x="255" y="510" width="130" height="60" rx="30" fill="#FFF6D9" stroke="#FFE38A" stroke-width="2.5"/><text x="320" y="547" text-anchor="middle" fill="#8A620A">Деньги</text></g>
+    <g><rect x="65" y="510" width="130" height="60" rx="30" fill="#FFE9E6" stroke="#FFB3AB" stroke-width="2.5"/><text x="130" y="547" text-anchor="middle" fill="#BB3A2C">Задачи</text></g>
+  </g>
+
+  <g transform="translate(90,620)">
+    <g fill="#C98A0B">
+      <path d="M20 8 L24.2 16.6 L33.7 17.8 L26.8 24.4 L28.5 33.8 L20 29.3 L11.5 33.8 L13.2 24.4 L6.3 17.8 L15.8 16.6 Z"/>
+      <path d="M60 8 L64.2 16.6 L73.7 17.8 L66.8 24.4 L68.5 33.8 L60 29.3 L51.5 33.8 L53.2 24.4 L46.3 17.8 L55.8 16.6 Z"/>
+      <path d="M100 8 L104.2 16.6 L113.7 17.8 L106.8 24.4 L108.5 33.8 L100 29.3 L91.5 33.8 L93.2 24.4 L86.3 17.8 L95.8 16.6 Z"/>
+    </g>
+    <text x="130" y="32" font-size="24" font-weight="700" fill="#3D3A37">до 3 звёзд за тему</text>
+  </g>
+  <text x="1190" y="648" font-size="22" fill="#A39A90" text-anchor="end">3 группы: арифметика · логика · жизнь и формы</text>
+</svg>

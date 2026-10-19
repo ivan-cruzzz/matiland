@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1280" height="720" fill="#FDF8F2"/>
+  <text x="90" y="100" font-size="56" font-weight="800" fill="#3D3A37">Экономика наград</text>
+  <text x="90" y="148" font-size="26" fill="#6F6862">Каждый верный ответ приближает к новой вещи для героя</text>
+
+  <g transform="translate(190,400)">
+    <circle cx="0" cy="0" r="86" fill="#FFD45E" stroke="#3D3A37" stroke-width="4"/>
+    <circle cx="0" cy="0" r="56" fill="#FFE38A" stroke="#C98A0B" stroke-width="3"/>
+    <path d="M0 -34 L8.5 -17 L28 -14.5 L13.5 -1 L17 18.5 L0 9 L-17 18.5 L-13.5 -1 L-28 -14.5 L-8.5 -17 Z" fill="#C98A0B"/>
+    <text x="0" y="130" text-anchor="middle" font-size="24" font-weight="800" fill="#3D3A37">Монеты</text>
+    <text x="0" y="160" text-anchor="middle" font-size="20" fill="#6F6862">+5 за ответ, бонусы за серии</text>
+  </g>
+
+  <g transform="translate(430,250)">
+    <path d="M18 4 L42 4 L50 16 L30 40 L10 16 Z" fill="#C9B8F0" stroke="#3D3A37" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="30" y="72" text-anchor="middle" font-size="22" font-weight="800" fill="#3D3A37">Самоцветы</text>
+    <text x="30" y="98" text-anchor="middle" font-size="18" fill="#6F6862">за достижения и колесо</text>
+  </g>
+  <g transform="translate(590,250)">
+    <rect x="4" y="14" width="52" height="34" rx="6" fill="#C98A4B" stroke="#3D3A37" stroke-width="2.5"/>
+    <path d="M4 22 Q30 2 56 22" fill="none" stroke="#3D3A37" stroke-width="2.5"/>
+    <rect x="24" y="24" width="12" height="14" rx="3" fill="#FFD45E" stroke="#3D3A37" stroke-width="2"/>
+    <text x="30" y="72" text-anchor="middle" font-size="22" font-weight="800" fill="#3D3A37">Сундуки</text>
+    <text x="30" y="98" text-anchor="middle" font-size="18" fill="#6F6862">за идеал и вызов дня</text>
+  </g>
+  <g transform="translate(750,250)">
+    <circle cx="30" cy="30" r="26" fill="none" stroke="#3D3A37" stroke-width="2.5"/>
+    <circle cx="30" cy="12" r="6" fill="#FF948A"/>
+    <circle cx="48" cy="22" r="6" fill="#FFE38A"/>
+    <circle cx="48" cy="40" r="6" fill="#A8E6CF"/>
+    <circle cx="30" cy="48" r="6" fill="#A6D8F0"/>
+    <circle cx="13" cy="40" r="6" fill="#C9B8F0"/>
+    <circle cx="13" cy="22" r="6" fill="#FFD3B6"/>
+    <text x="30" y="72" text-anchor="middle" font-size="22" font-weight="800" fill="#3D3A37">Колесо</text>
+    <text x="30" y="98" text-anchor="middle" font-size="18" fill="#6F6862">один спин в день</text>
+  </g>
+  <g transform="translate(910,250)">
+    <rect x="2" y="10" width="56" height="44" rx="10" fill="none" stroke="#3D3A37" stroke-width="3"/>
+    <path d="M14 42 L14 32 L24 20 L36 26 L46 16 L46 42 Z" fill="#A8E6CF" stroke="#3D3A37" stroke-width="2"/>
+    <text x="30" y="72" text-anchor="middle" font-size="22" font-weight="800" fill="#3D3A37">Квесты</text>
+    <text x="30" y="98" text-anchor="middle" font-size="18" fill="#6F6862">3 активных всегда</text>
+  </g>
+  <g transform="translate(1070,250)">
+    <circle cx="30" cy="26" r="22" fill="#FFD45E" stroke="#3D3A37" stroke-width="2.5"/>
+    <path d="M30 14 L33.5 21.5 L42 22.5 L35.8 28.5 L37.6 37 L30 33 L22.4 37 L24.2 28.5 L18 22.5 L26.5 21.5 Z" fill="#FFF3D1" stroke="#3D3A37" stroke-width="1"/>
+    <text x="30" y="72" text-anchor="middle" font-size="22" font-weight="800" fill="#3D3A37">Достижения</text>
+    <text x="30" y="98" text-anchor="middle" font-size="18" fill="#6F6862">16 бейджей-наград</text>
+  </g>
+
+  <g transform="translate(430,440)">
+    <rect x="0" y="0" width="760" height="170" rx="24" fill="#F0EAFC" stroke="#C9B8F0" stroke-width="3"/>
+    <text x="40" y="56" font-size="28" font-weight="800" fill="#6D4FC2">Сезонный пропуск</text>
+    <text x="40" y="92" font-size="21" fill="#6F6862">30 уровней наград за месяц игры: монеты, самоцветы</text>
+    <text x="40" y="120" font-size="21" fill="#6F6862">и сезонные вещи — шляпа-кораблик, полянка, гирлянда</text>
+    <g>
+      <rect x="40" y="136" width="680" height="10" rx="5" fill="#DDD0C0"/>
+      <rect x="40" y="136" width="380" height="10" rx="5" fill="#6D4FC2"/>
+      <circle cx="420" cy="141" r="9" fill="#6D4FC2" stroke="#FDF8F2" stroke-width="3"/>
+      <text x="440" y="147" font-size="18" font-weight="700" fill="#6D4FC2">уровень 12/30</text>
+    </g>
+  </g>
+</svg>
